@@ -1,6 +1,6 @@
 ## Hi there, I'm Tae-Gon Noh 👋
 
-🎓 Master's student @ Seoul National University Hospital (SNUH), advised by Dr. Ki-Young Jung  
+🎓 Master's student in Neuroscience @ Seoul National University (SNU), advised by Dr. Ki-Young Jung  
 🧠 Research: EEG/PSG, REM Sleep Behavior Disorder (RBD), Medical AI  
 🔬 Interests: Neuroscience, Time-series ML, Bio-signal Analysis  
 
