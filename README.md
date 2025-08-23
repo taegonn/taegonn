@@ -10,9 +10,10 @@
 
 ## 🧩 Tech Stack
 - **ML/DL**: PyTorch, scikit-learn, XGBoost  
-- **Neuro**: MNE-Python, NumPy, SciPy  
-- **Utilities**: Jupyter/Colab, matplotlib, pandas  
-- **Reproducibility**: Conda/venv, Docker (basic), `CITATION.cff`
+- **Neuro**: MNE-Python, EEGLAB-MatLab
+- **Visualization**: Seaborn, Matplotlib
+- **Utilities**: Jupyter/Colab, scipy, numpy, pandas, SQL
+- **Reproducibility**: Conda/venv, Docker (basic)
 
 ---
 
