@@ -27,4 +27,5 @@
 ## 📫 Contact
 - Google Scholar: https://scholar.google.com/citations?user=gZOAJD4AAAAJ
 - Email: ghgh3110@snu.ac.kr
+- LinkedIn: linkedin.com/in/tae-gon-noh-778857318
 
