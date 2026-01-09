@@ -8,15 +8,6 @@
 
 ---
 
-## 🧩 Tech Stack
-- **ML/DL**: PyTorch, scikit-learn, XGBoost  
-- **Neuro**: MNE-Python, EEGLAB-MatLab
-- **Visualization**: Seaborn, Matplotlib
-- **Utilities**: Jupyter/Colab, scipy, numpy, pandas, SQL
-- **Reproducibility**: Conda/venv, Docker (basic)
-
----
-
 ## 📝 Selected Publication
 - Noh, T.G., Byun, J.I., St Louis EK., et al. "Basal EMG Amplitude in REM and NREM Sleep as a Predictor of Disease Progression in Isolated REM Sleep Behavior Disorder." Sleep (2025) 
 - Choi, K.M., Noh, T.G., Jung, K.Y., et al. “Altered Functional Brain Networks in Isolated REM Sleep Behavior Disorder during Phasic REM sleep.”, Sleep Med (2025)
