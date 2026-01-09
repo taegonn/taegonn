@@ -18,6 +18,7 @@
 ---
 
 ## 📝 Selected Publication
+- Noh, T.G., Byun, J.I., St Louis EK., et al. "Basal EMG Amplitude in REM and NREM Sleep as a Predictor of Disease Progression in Isolated REM Sleep Behavior Disorder." Sleep (2025) 
 - Choi, K.M., Noh, T.G., Jung, K.Y., et al. “Altered Functional Brain Networks in Isolated REM Sleep Behavior Disorder during Phasic REM sleep.”, Sleep Med (2025)
 - Kim, S.M., Choi, K.M., Noh, T.G., et al. “Eye Blinking Characteristics as Potential Biomarkers in Isolated REM Sleep Behavior Disorder During Visuospatial Attention Tasks.”, Parkinsonism and Related disorders (2025)
 - Noh, T.G., Lee, S., Lee, Y., et al. “Continuous REM Sleep Without Atonia Quantification Improves Prediction of Phenoconversion to α-Synucleinopathies in Isolated REM Sleep Behavior Disorder.”, Sleep Medicine, 129, 394-401 (2025)
